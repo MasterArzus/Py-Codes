@@ -1,0 +1,13 @@
+print(1)
+print("Hello world")
+# fp=open('D:/py.txt','a+')
+# print("Hello world!",file=fp)
+# fp.close()
+
+print('212', '66', '6616')
+print('hello\nworld')
+print('hello\tworld')
+print('helloooo\tworld')
+print('hello\rworld')
+print('hellooo\rworld')
+print('hellooo\bworld')
